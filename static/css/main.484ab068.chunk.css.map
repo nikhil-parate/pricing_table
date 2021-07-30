@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/from.css"],"names":[],"mappings":"AAAA,WACE,oCAAwC,CACxC,sBACF,CACA,gBACE,yCAEF","file":"main.484ab068.chunk.css","sourcesContent":[".col:hover {\r\n  box-shadow: rgba(0,0,0,0.5) 0px 5px 15px;\r\n  background-color: azure;\r\n}\r\n.col:hover .but{\r\n  box-shadow: rgba(73, 127, 243, 0.5) 0px 5px 15px;\r\n  \r\n}"]}
